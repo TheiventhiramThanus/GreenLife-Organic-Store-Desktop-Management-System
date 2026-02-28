@@ -1,0 +1,10 @@
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\obj\Debug\GreenLifeWinForms.csproj.AssemblyReference.cache
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\obj\Debug\GreenLifeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\bin\Debug\Database\DatabaseSchema.sql
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\bin\Debug\Database\SeedData.sql
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\bin\Debug\GreenLifeWinForms.exe.config
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\bin\Debug\GreenLifeWinForms.exe
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\bin\Debug\GreenLifeWinForms.pdb
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\obj\Debug\GreenLifeWinForms.exe
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\obj\Debug\GreenLifeWinForms.pdb
+C:\Users\thanu\OneDrive\Desktop\AD\GreenLifeWinForms\obj\Debug\GreenLifeWinForms.exe.config
